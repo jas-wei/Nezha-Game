@@ -6,6 +6,11 @@ A 2D game built in Godot that reimagines the birth of Nezha through the lens of 
 
 This project blends cultural storytelling with modern tools. Inspired by shadow puppet theater, the game uses silhouette-based characters projected onto textured paper backgrounds to evoke a handcrafted feel. The story follows Nezha’s mythical origin, combining visual style with narrative flow.
 
+## Gameplay Video
+
+You can watch a video of the gameplay here:  
+[View on Google Drive](https://drive.google.com/drive/folders/1UiGZNFLNLpKblmDMUPj9SeifRdHHceKH)
+
 ## Features
 
 - Shadow puppetry aesthetic using physically projected silhouettes and paper textures
