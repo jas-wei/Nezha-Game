@@ -24,4 +24,6 @@ This project blends cultural storytelling with modern tools. Inspired by shadow 
 ## Credits
 
 Designed and developed by Jasmine Wei
-All assets and code are created by the developer. Sound is from freesound.org
+<br>
+<br>
+Sound is from freesound.org
